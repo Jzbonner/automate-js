@@ -3,8 +3,8 @@ A collection of JavaScript applications that aid in automating everyday work-flo
 
 ### Tools 
 
-* [🖇] JavaScript Clipboard Manager
-* [🖇] More to come... 
+* 🖇 JavaScript Clipboard Manager
+* 🖇 More to come... 
 
 ### Contributors 
 🌎 [Jzbonner](https://github.com/Jzbonner) - jarrett.bonner@gmail.com
