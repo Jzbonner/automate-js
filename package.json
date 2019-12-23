@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Jzbonner/automate-js/issues"
   },
-  "homepage": "https://github.com/Jzbonner/automate-js#readme"
+  "homepage": "https://github.com/Jzbonner/automate-js#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
 }
