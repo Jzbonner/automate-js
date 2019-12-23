@@ -1,0 +1,24 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "description": "webscraping with puppeteer.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jzbonner/automate-js.git"
+  },
+  "keywords": [
+    "webscraping",
+    "puppeteer",
+    "javascript"
+  ],
+  "author": "Jzbonner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jzbonner/automate-js/issues"
+  },
+  "homepage": "https://github.com/Jzbonner/automate-js#readme"
+}
