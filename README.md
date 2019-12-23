@@ -4,10 +4,10 @@ A collection of JavaScript applications that aid in automating everyday work-flo
 
 
 ### Tools 
-⚪ Web Scraping with Puppeteer.js - a sandbox environment for webscraping data off a variety of internet resources 
-⚪ Medical Prescription (scraped data)
-⚪ Music Release Dates (scraped data)
-⚪ Mergers and Acquisitions (scraped data)
+* [🌊 - current] **Web Scraping with Puppeteer.js** - a sandbox environment for webscraping data off a variety of internet resources 
+* [] **Medical Prescription** - (scraped data) 
+* [] **Music Release Dates** - (scraped data)
+* [] **Mergers and Acquisitions** - (scraped data)
 
 ## Web Scraping with Python 🌏
 Using a combination of node and puppeteer.js developers can automate scraping web data for a varierty of purposes. I intend to create simple examples for pulling in data and scale out these examples into multi-use componets for larger projects. Will look to package the "automation" aspects of this micro project into a microservice that can be connected a relational/non-relational database depending on the data type. 
